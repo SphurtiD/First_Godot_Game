@@ -26,7 +26,7 @@ I built this game by following this beginner-friendly tutorial:
 ---
 
 ## 🎮 Built With
-- **Godot Engine** v4.x
+- **Godot Engine** v4.4.1
 - GDScript (Python-like scripting language)
 - Custom logic based on CharacterBody2D and physics
 
@@ -34,10 +34,8 @@ I built this game by following this beginner-friendly tutorial:
 
 ## 🧠 What I Learned
 - How to set up a 2D character with physics and movement
-- Handling input actions like `ui_left`, `ui_right`, and `ui_accept`
+- Handling custom input actions like `left`, `right`, and `jump`
 - Using `velocity`, `move_and_slide()`, and `flip_h` for sprite logic
 - Basics of the game loop and `_physics_process(delta)`
 
 ---
-
-## 🗂️ Folder Structure
